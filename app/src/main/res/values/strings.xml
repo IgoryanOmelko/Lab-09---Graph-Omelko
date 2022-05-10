@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab 08 Graph- Omelko</string>
+    <string name="itmParams">Params</string>
+    <string name="itmFunc">Function</string>
+    <string name="tvPointNumber">Number of points</string>
+    <string name="tvXMax">X Max</string>
+    <string name="tvXMin">X min</string>
+    <string name="btnSetParams">Set</string>
+    <string name="btnCancelParams">Cancel</string>
+    <string name="dialogTitle">Choose the function</string>
+    <string name="Sin">Sin</string>
+    <string name="Cos">Cos</string>
+    <string name="Tan">Tan</string>
+    <string name="SinH">Sinh</string>
+    <string name="CosH">Cosh</string>
+</resources>
